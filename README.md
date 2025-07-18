@@ -22,8 +22,11 @@ pip uninstall Inference_Monitor
 ## 사용 방법
 <img src="method.png" width="300"/>
 
-### 출력 예시 
-<img src="ex.png" width="300"/>
-
+## 출력 예시 
+<img src="ex1.png" width="300"/>
 ---
+#### 이미지
+<img src="ex2.png" width="300"/>
+#### CSV
+<img src="ex3.png" width="300"/>
 
