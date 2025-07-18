@@ -1,5 +1,6 @@
 # 📊 InferenceMonitor
 Python으로 추론(inference) 중 시스템 리소스(CPU 및 메모리) 사용량을 모니터링하고, 이를 시각화/CSV로 저장하는 도구입니다.
+
 ---
 ✅ 기능
 - 전체 CPU 사용률 및 코어별 사용률 기록
@@ -21,9 +22,11 @@ pip uninstall Inference_Monitor
 
 ## 사용 방법
 <img src="method.png" width="300"/>
+추론 코드의 앞부분에 **start()** 를, 뒷부분에 **stop()** 을 호출하여 리소스 측정의 시작과 종료 시점을 설정함.
 
 ## 출력 예시 
 <img src="ex1.png" width="300"/>
+
 ---
 #### 이미지
 <img src="ex2.png" width="300"/>
