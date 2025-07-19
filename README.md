@@ -32,6 +32,7 @@ from InferenceMonitor import InferenceMonitor (이거 정의해야함.)
 ---
 #### 이미지
 <img src="ex2.png" width="600"/>
+
 #### CSV
 <img src="ex3.png" width="600"/>
 
