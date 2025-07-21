@@ -24,7 +24,7 @@ pip uninstall Inference_Monitor
 ```
 from InferenceMonitor import InferenceMonitor (이거 정의해야함.)
 ```
-interval로 측정 간격 설정 가능 0.5하면 0.5초
+interval로 측정 간격 설정 가능 0.5하면 0.5초 <br>
 <img src="method.png" width="400"/>
 
 추론 코드의 앞부분에 `start()` 를, 뒷부분에 `stop()` 을 호출하여 리소스 측정의 시작과 종료 시점을 설정함.
